@@ -4,7 +4,7 @@
 MCAN uses the Flask library and the CoinMarketCap API to make a new API that makes things simpler and easier to use.
 
 Path: `/<coin>`
-
+Port: 420
 ### Parameters
 
 - `coin_used`, what coin was put in the directory
